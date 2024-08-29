@@ -17,8 +17,7 @@
 
 ### Full-Stack ✔️
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,jquery&perline=4)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=php,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,jquery,php,mysql&perline=4)](https://skillicons.dev)
 
 
 ### Lenguajes de Programación 💻
